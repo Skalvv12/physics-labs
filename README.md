@@ -1,6 +1,6 @@
 # Physics Labs
 
-This repository contains a selection of laboratory reports from my undergraduate physics studies. These projects focus on the application of statistical methods, numerical fitting, and computational analysis to classical physical systems.
+Laboratory reports from my undergraduate physics studies. These projects focus on the application of statistical methods, numerical fitting, and computational analysis to classical physical systems.
 
 
 
@@ -33,7 +33,3 @@ This repository contains a selection of laboratory reports from my undergraduate
 *   **Topics:** Normal modes and beat dynamics in coupled pendulums.
 *   **Key Techniques:** Automated peak detection and coupling strength determination.
 
-## Skills
-*   **Languages:** Python (NumPy, SciPy, Pandas, Matplotlib)
-*   **Data Analysis:** Non-linear regression, Error propagation, and Signal processing (Peak detection).
-*   **Experimental Tools:** Digital Oscilloscopes, Rotary Sensors, and Ultrasonic Transducers.
