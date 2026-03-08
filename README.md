@@ -1,12 +1,9 @@
-# Physics Lab Portfolio: Data Analysis & Experimental Physics
+# Physics Labs
 
-This repository contains a selection of laboratory reports from my undergraduate physics studies at **Leipzig University**. These projects focus on the application of statistical methods, numerical fitting, and computational analysis to classical physical systems.
+This repository contains a selection of laboratory reports from my undergraduate physics studies. These projects focus on the application of statistical methods, numerical fitting, and computational analysis to classical physical systems.
 
-## 🔬 Overview
 
-These reports represent my work in experimental physics, where I apply data science techniques to analyze physical phenomena. In developing these notebooks, I utilized AI assistance to refine the code structure and documentation, while focusing my efforts on the experimental design, mathematical modeling, and physical interpretation of the results.
 
-## 📂 Project Highlights
 
 ### 01. Electric Circuits Analysis
 *   **Topics:** Series/Parallel networks, Voltage Dividers, Wheatstone Bridges, and RC filters.
@@ -36,7 +33,7 @@ These reports represent my work in experimental physics, where I apply data scie
 *   **Topics:** Normal modes and beat dynamics in coupled pendulums.
 *   **Key Techniques:** Automated peak detection and coupling strength determination.
 
-## 🛠 Skills Demonstrated
+## Skills
 *   **Languages:** Python (NumPy, SciPy, Pandas, Matplotlib)
 *   **Data Analysis:** Non-linear regression, Error propagation, and Signal processing (Peak detection).
 *   **Experimental Tools:** Digital Oscilloscopes, Rotary Sensors, and Ultrasonic Transducers.
